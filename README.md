@@ -22,46 +22,46 @@ The issue should be fixed. Incase of any further issue, please file a [Bug Repor
 
 #### [Quiz Question Suggestion Template](https://www.youtube.com/watch?v=KrGfq0vXEkc)
 
-#### [Quiz Website](https://quiz-game-by-kendall.netlify.app/)
+#### [Quiz Website](https://quiz.kencodes.tech)
 
-#### [Quiz Topics](https://quiz-game-by-kendall.netlify.app/pages/topics)
+#### [Quiz Topics](https://quiz.kencodes.tech/pages/topics)
 
 <details>
   <summary>Check more Quiz types</summary>
 
-[Tech Quiz](https://quiz-game-by-kendall.netlify.app/pages/tech/)
+[Tech Quiz](https://quiz.kencodes.tech/pages/tech/)
 
-[Minecraft Quiz](https://quiz-game-by-kendall.netlify.app/pages/minecraft/)
+[Minecraft Quiz](https://quiz.kencodes.tech/pages/minecraft/)
 
-[Roblox Quiz](https://quiz-game-by-kendall.netlify.app/pages/roblox/)
+[Roblox Quiz](https://quiz.kencodes.tech/pages/roblox/)
 
-[Easter Quiz](https://quiz-game-by-kendall.netlify.app/pages/easter/)
+[Easter Quiz](https://quiz.kencodes.tech/pages/easter/)
 
-[Christmas Quiz](https://quiz-game-by-kendall.netlify.app/pages/christmas/)
+[Christmas Quiz](https://quiz.kencodes.tech/pages/christmas/)
 
-[Browsers Quiz](https://quiz-game-by-kendall.netlify.app/pages/browsers/)
+[Browsers Quiz](https://quiz.kencodes.tech/pages/browsers/)
 
-[Computer Parts Quiz](https://quiz-game-by-kendall.netlify.app/pages/computer_parts/)
+[Computer Parts Quiz](https://quiz.kencodes.tech/pages/computer_parts/)
 
-[Disney Quiz](https://quiz-game-by-kendall.netlify.app/pages/disney/)
+[Disney Quiz](https://quiz.kencodes.tech/pages/disney/)
 
-[Fruit Quiz](https://quiz-game-by-kendall.netlify.app/pages/fruit/)
+[Fruit Quiz](https://quiz.kencodes.tech/pages/fruit/)
 
-[Football Quiz](https://quiz-game-by-kendall.netlify.app/pages/football/)
+[Football Quiz](https://quiz.kencodes.tech/pages/football/)
 
-[Country Quiz](https://quiz-game-by-kendall.netlify.app/pages/countries/)
+[Country Quiz](https://quiz.kencodes.tech/pages/countries/)
 
-[U.S Presidents Quiz](https://quiz-game-by-kendall.netlify.app/pages/presidents/)
+[U.S Presidents Quiz](https://quiz.kencodes.tech/pages/presidents/)
 
-[YouTube Quiz](https://quiz-game-by-kendall.netlify.app/pages/youtube/)
+[YouTube Quiz](https://quiz.kencodes.tech/pages/youtube/)
 
-[Programming Language Quiz](https://quiz-game-by-kendall.netlify.app/pages/programming_language/)
+[Programming Language Quiz](https://quiz.kencodes.tech/pages/programming_language/)
 
-[Jaiden Animations Quiz](https://quiz-game-by-kendall.netlify.app/pages/jaidenanimations/)
+[Jaiden Animations Quiz](https://quiz.kencodes.tech/pages/jaidenanimations/)
 
-[TheOdd1sOut Quiz](https://quiz-game-by-kendall.netlify.app/pages/theodd1sout/)
+[TheOdd1sOut Quiz](https://quiz.kencodes.tech/pages/theodd1sout/)
 
-[How Well Do You Know Kendall Quiz](https://quiz-game-by-kendall.netlify.app/pages/kendall-quiz/)
+[How Well Do You Know Kendall Quiz](https://quiz.kencodes.tech/pages/kendall-quiz/)
 
 </details>
 
@@ -150,4 +150,4 @@ Thanks for your support,
 
 Kendall Does Coding,
 
-<kendall@kendalldoescoding.tech>
+<kendall@kencodes.tech>
